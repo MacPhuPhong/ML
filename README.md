@@ -10,8 +10,7 @@ Mỗi thư mục trong dự án chứa một chủ đề hoặc bài tập riên
 
 | Thư mục | Mô tả |
 |----------|-------|
-
-| **AI_02/** | GK làm lần 2. |
+| **AI_02/** |  bài giữa kì. |
 | **HOG/** | Thực hành **Histogram of Oriented Gradients** – đặc trưng trong xử lý ảnh. |
 | **Hu'smoment/** | Tính toán và ứng dụng **Hu Moments** cho nhận dạng ảnh. |
 | **ML_Iris/** | Dự án nhỏ sử dụng **bộ dữ liệu Iris** để phân loại bằng các mô hình ML. |
